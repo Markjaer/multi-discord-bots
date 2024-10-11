@@ -1,6 +1,6 @@
 {
   "name": "multi-bots",
-  "author": "Made by Markjaer - https://github.com/Markjaer",
+  "author": "Markjaer - https://github.com/Markjaer",
   "version": "1.0.0",
   "description": "Multi discord bots",
   "main": "src/main.js",
