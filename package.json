@@ -1,0 +1,22 @@
+{
+  "name": "multi-bots",
+  "version": "1.0.0",
+  "description": "Multi discord bots",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "node ."
+  },
+  "keywords": [],
+  "author": "Markjaer",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "axios": "^1.7.7",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.76",
+    "discord.js": "^14.14.1",
+    "request": "^2.88.2",
+    "ws": "^7.4.4"
+  }
+}
